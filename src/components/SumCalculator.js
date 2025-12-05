@@ -13,6 +13,7 @@ export default function SumCalculator() {
 
   return (
     <>
+    <h1>Calculator</h1>
       <input
         type="number"
         value={input}
